@@ -54,7 +54,7 @@ Below is a breakdown of prominent commercial e-procurement, business spend manag
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of self-hosted, open-source e-procurement solutions, ERP purchasing modules, and developer frameworks—sorted in descending order by GitHub Stars_Count.
+Curated list of self-hosted, open-source e-procurement solutions, ERP purchasing modules, and developer frameworks—sorted in descending order by GitHub_Stars_Count.
 
 | 📦 Project | ⭐ Stars_Badge | 📝 Description & Procurement Architecture |
 |:---|:---|:---|
@@ -112,3 +112,12 @@ If you find this curated directory helpful for evaluating e-procurement solution
 <p align="center">
   <b>Built with ❤️ for procurement officers, finance leaders, and engineers building the future of purchasing systems.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-E-Procurement-Purchasing-Management&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-E-Procurement-Purchasing-Management_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-E-Procurement-Purchasing-Management_growth.svg">
+  </picture>
+</a>
