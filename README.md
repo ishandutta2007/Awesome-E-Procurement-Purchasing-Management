@@ -54,9 +54,9 @@ Below is a breakdown of prominent commercial e-procurement, business spend manag
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of self-hosted, open-source e-procurement solutions, ERP purchasing modules, and developer frameworks—sorted in descending order by GitHub star count.
+Curated list of self-hosted, open-source e-procurement solutions, ERP purchasing modules, and developer frameworks—sorted in descending order by GitHub Stars_Count.
 
-| 📦 Project | ⭐ Star Badge | 📝 Description & Procurement Architecture |
+| 📦 Project | ⭐ Stars_Badge | 📝 Description & Procurement Architecture |
 |:---|:---|:---|
 | **[Odoo Purchase](https://github.com/odoo/odoo/tree/master/addons/purchase)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | **Full requisition-to-pay automation within the Odoo ERP ecosystem.** Features: automated procurement proposals, RFQ dissemination, purchase orders, vendor evaluation, barcode-based receiving, and 3-way invoice matching with multiple costing methods (Standard, Average, FIFO). **Best for companies running or adopting Odoo.** |
 | **[ERPNext Buying](https://github.com/frappe/erpnext)** | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | **Comprehensive open-source purchasing and procurement module in ERPNext.** Features: automated material requests, multi-supplier RFQ distributions, quotation comparison matrices, tiered purchase order approvals, automated 3-way matching, purchase receipts, and supplier scorecards. **Best for mid-to-large enterprises seeking a complete, customizable open-source ERP.** |
@@ -78,7 +78,7 @@ We welcome contributions from procurement professionals, developers, and open-so
 
 1. 🍴 **Fork** the repository.
 2. 🌿 Create a new feature branch (`git checkout -b feature/add-new-procurement-tool`).
-3. 📝 Update `README.md` following the tabular format (ensure pricing, free tier limits, company scale, and star badges are included).
+3. 📝 Update `README.md` following the tabular format (ensure pricing, free tier limits, company scale, and Stars_Badges are included).
 4. 💾 Commit your changes (`git commit -m "Add NewProcurementTool with pricing and details"`).
 5. 🚀 Push to your branch (`git push origin feature/add-new-procurement-tool`).
 6. 📬 Submit a **Pull Request** detailing the merits of the added platform.
