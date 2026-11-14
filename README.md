@@ -1,6 +1,6 @@
 # Awesome-E-Procurement-Purchasing-Management
 
-# Top E-Procurement & Purchasing Management Ecosystem
+## Top E-Procurement & Purchasing Management Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Requisition-to-Pay Automation, Supplier Management & Spend Control*  
