@@ -95,7 +95,7 @@
 
   <g class="floating-node-2" opacity="0.6">
     <rect x="260" y="320" width="140" height="48" rx="10" fill="url(#nodeGrad2)" stroke="#a78bfa" stroke-width="1.2" />
-    <text x="330" y="350" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#ede9fe" text-anchor="middle">⚖️ 2. RFQ & Sourcing</text>
+    <text x="330" y="350" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#ede9fe" text-anchor="middle">⚖️ 2. RFQ &amp; Sourcing</text>
   </g>
 
   <g class="floating-node-3" opacity="0.6">
